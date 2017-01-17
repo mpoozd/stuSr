@@ -1,0 +1,2 @@
+# stuSr
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7a50690fad9b4edfacc50fd832c69e6c)](https://www.codacy.com/app/mpoozd/stuSr?utm_source=github.com&utm_medium=referral&utm_content=mpoozd/stuSr&utm_campaign=badger)
